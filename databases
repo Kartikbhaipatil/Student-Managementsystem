@@ -1,0 +1,4 @@
+admission-------id,name,email,phone,course,image
+courses --- id,name,description,faculty_name
+  teacher --- id,name,course,description,image
+   user --  id,username,phone,email,role,password
